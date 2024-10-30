@@ -18,4 +18,4 @@ e.g., an example grid setup:
 
 
 ## example result
-![2x6 grid](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Example grid game played by MCTS agent")
+![2x6 grid](https://github.com/markohuang/grid_mcts/blob/main/results/2x6agent.gif "Example grid game played by MCTS agent")
